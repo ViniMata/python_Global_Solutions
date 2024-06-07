@@ -11,7 +11,7 @@
 # Exemplo do Gráfico
 <br>
 ![image](https://github.com/ViniMata/python_Global_Solutions/assets/123563801/8139f720-7c95-47c1-8bac-053cf486ef35)
-<br>
+<p></p>
 # Requisitos
 <p>
   Ter uma tabela com os dados que deseja manipular.
