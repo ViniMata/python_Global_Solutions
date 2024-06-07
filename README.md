@@ -17,7 +17,7 @@
 
 # Instruções de Uso
 <p>
-  1. Clique em run python file no canto superior direito
+  Clique em run python file no canto superior direito
   ![image](https://github.com/ViniMata/python_Global_Solutions/assets/123563801/40789374-6f8c-4a1a-9b31-48f3abebdd6f)
   Assim que executar o código insira o caminho do seu arquivo .csv
 
@@ -30,4 +30,4 @@ Maria Clara - RM 557478
 Vinicius Matareli - RM 555200
 
 # Vídeo Explicativo
-<a target="_blank" href="youtube.com">Assista o vídeo para mais informações!</a>
+<a target="_blank" href="[youtube.com](https://www.youtube.com/watch?v=FMPBJVXE2eA)">Assista o vídeo para mais informações!</a>
