@@ -8,11 +8,11 @@
   Esse programa facilitará a interpretação de dados ja existentes. Precisando que o usuário apenas tenha uma tabela feita e que ele selecione os dados que deseja comparar. Esse projeto irá facilitar a visualização do usuário de tabelas já pré-existentes para que ele possa tirar conclusões com menos trabalho.
 </p>
 
-#Exemplo do Gráfico
+# Exemplo do Gráfico
 <br>
 ![image](https://github.com/ViniMata/python_Global_Solutions/assets/123563801/8139f720-7c95-47c1-8bac-053cf486ef35)
 <br>
-#Requisitos
+# Requisitos
 <p>
   Ter uma tabela com os dados que deseja manipular.
   Ter o Python, o Pandas e o MathPlot baixado na máquina.
