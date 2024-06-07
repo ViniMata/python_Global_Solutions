@@ -30,4 +30,4 @@ Maria Clara - RM 557478
 Vinicius Matareli - RM 555200
 
 # Vídeo Explicativo
-<a target="_blank" href="[youtube.com](https://www.youtube.com/watch?v=FMPBJVXE2eA)">Assista o vídeo para mais informações!</a>
+<a target="_blank" href="https://youtu.be/FMPBJVXE2eA?si=-1kHIUpL_TAnF_VB">Assista o vídeo para mais informações!</a>
