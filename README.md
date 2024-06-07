@@ -21,7 +21,7 @@
   ![image](https://github.com/ViniMata/python_Global_Solutions/assets/123563801/40789374-6f8c-4a1a-9b31-48f3abebdd6f)
   Assim que executar o código insira o caminho do seu arquivo .csv
 
-  Assista o vídeo para mais informações!
+  <a target="_blank" href="https://youtu.be/FMPBJVXE2eA?si=-1kHIUpL_TAnF_VB">Assista o vídeo para mais informações!</a>
 </p>
 
 # Integrantes do Grupo
